@@ -10,7 +10,7 @@ $('selector').whenyouseeme('myClass',options);
 
 ## Options
 
-| Option    | Are       | Description |
+| Option    | Defaults  | Description |
 | --------- |:---------:| -----------:|
 | container | window    | Window is the default viewport. However, you can use a selector such as ".test" in the case of an element being the view port. |
 | allDone   | undefined | Here you can add a callback function when all elements of the current selector have reached the viewport. |
