@@ -5,7 +5,7 @@ A jQuery plugin which allows you to add a class to a specific selector when it's
 ## Basic Usage
 
 ```javascript
-$('selector').whenyouseeme('myClass',options);
+$('selector').whenyouseeme('myClass',optionsObj);
 ```
 
 ## Options
