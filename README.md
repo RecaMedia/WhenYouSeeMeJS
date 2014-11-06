@@ -11,7 +11,7 @@ $('selector').whenyouseeme('myClass',options);
 ## Options
 
 | Option    | Defaults  | Description |
-| --------- |:---------:| -----------:|
+| --------- | --------- | ----------- |
 | container | window    | Window is the default viewport. However, you can use a selector such as ".test" in the case of an element being the view port. |
 | allDone   | undefined | Here you can add a callback function when all elements of the current selector have reached the viewport. |
 | delay     | 500       | The delay between adding the class to the next element. Example: 1000 = 1 sec. |
